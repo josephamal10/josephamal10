@@ -9,11 +9,11 @@ I like building AI systems end to end and shipping them as apps people can actua
 
 #### Projects
 
-| Project | What it does | Try it |
+| Project | What it does | Live demo |
 |---|---|---|
-| [Synthetic Voice Detection System](https://github.com/josephamal10/synthetic-voice-detection) | Tells a real human voice from an AI-generated or cloned one (CNN + BiLSTM on MFCC features) | [Live demo](https://synthetic-voice-detection.streamlit.app) |
-| [Confident Talk Analyzer](https://github.com/josephamal10/confident-talk-analyzer) | Speech coaching: measures 10 delivery skills and gives feedback from an AI coach | [Live demo](https://josephamal10--confident-talk-analyzer-web.modal.run) |
-| [RAG Knowledge Base](https://github.com/josephamal10/rag-knowledge-base-api) | Answers questions from a business's own documents and shows its sources (NestJS + React) | [Live demo](https://rag-knowledge-base-gray.vercel.app) |
+| [Synthetic Voice Detection System](https://github.com/josephamal10/synthetic-voice-detection) | Tells a real human voice from an AI-generated or cloned one (CNN + BiLSTM on MFCC features) | [Try it](https://synthetic-voice-detection.streamlit.app) |
+| [Confident Talk Analyzer](https://github.com/josephamal10/confident-talk-analyzer) | Speech coaching: measures 10 delivery skills and gives feedback from an AI coach | [Try it](https://josephamal10--confident-talk-analyzer-web.modal.run) |
+| [RAG Knowledge Base](https://github.com/josephamal10/rag-knowledge-base-api) | Answers questions from a business's own documents and shows its sources (NestJS + React) | [Try it](https://rag-knowledge-base-gray.vercel.app) |
 | [CaddieAI](https://github.com/josephamal10/CaddieAI) | Golf Q&A assistant: retrieval with live web search, citations and evals | |
 | [Smart Attendance Kiosk](https://github.com/josephamal10/smart-attendance-kiosk) | Face-recognition attendance with liveness checks and an admin dashboard | |
 
